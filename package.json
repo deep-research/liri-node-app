@@ -1,0 +1,26 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "Language Interpretation and Recognition Interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deep-research/liri-node-app.git"
+  },
+  "author": "victor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deep-research/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/deep-research/liri-node-app#readme",
+  "dependencies": {
+    "moment": "^2.19.2",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.83.0",
+    "twitter": "^1.7.1",
+    "util": "^0.10.3"
+  }
+}
