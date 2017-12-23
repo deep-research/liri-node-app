@@ -18,6 +18,7 @@ https://github.com/deep-research/liri-node-app.
 * The new directory will be called "liri-node-app." Extracting the file may be necessary.
 * Change directory to "liri-node-app" in a command-line interpreter.
 * Run the "npm install" command to prepare the necessary NPM packages.
+* Create API accounts with Twitter and Spotify. Get the pass codes and enter them in the "keys.js" file.
 * Twitter command: `node liri.js my-tweets`
 * Spotify command: `node liri.js spotify-this-song "NAME OF SONG"`
 * Movie command: `node liri.js movie-this "NAME OF MOVIE"`
